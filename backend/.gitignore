@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+*.env.local
+
+# Build files
+target/
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project/
+
+# OS files
+.DS_Store
+Thumbs.db
